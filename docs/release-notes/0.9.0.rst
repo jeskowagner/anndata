@@ -7,3 +7,7 @@
 * Expanded docstring more documentation for ``backed``` argument of :func:`anndata.read_h5ad` `:pr:`812` :smaller:`jeskowagner`
 
 .. rubric:: Bug fixes
+
+.. rubric:: Updates
+
+* Bump minimum python version to 3.8 :pr:`820` :smaller:`ivirshup`
